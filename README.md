@@ -6,4 +6,4 @@ Possuo conhecimentos em:
 - Desenvolvimento Android: tenho alguma bagagem graças a faculdade, principalmente em java.
 
 Procuro:
-- Oportunidade de por em prática conhecimentos obtidos até então. 
+- Oportunidade de por em prática os conhecimentos obtidos até então. 
