@@ -1,4 +1,5 @@
 Atualmente curso o 6º/7º semestre de Ciência da Computação na UNISC em Santa Cruz do Sul - RS.
+Trabalho na Imply Tecnologia como Desenvolvedor Mobile Trainee. 
 
 Possuo conhecimentos em:
 - Github: já utilizo em alguns projetos pessoais e acadêmicos.
@@ -6,4 +7,4 @@ Possuo conhecimentos em:
 - Desenvolvimento Android: tenho alguma bagagem graças a faculdade, principalmente em java.
 
 Procuro:
-- Oportunidade de por em prática os conhecimentos obtidos até então. 
+- Oportunidades de por em prática os conhecimentos obtidos até então. 
